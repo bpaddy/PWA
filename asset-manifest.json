@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bpaddy/PWA/static/css/main.073c9b0a.css",
+    "main.js": "/bpaddy/PWA/static/js/main.af9fa81e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bpaddy/PWA/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sculpture.mp4": "/bpaddy/PWA/static/media/sculpture.1d60f2194fb1b53e3bb6.mp4",
+    "service-worker.js": "/bpaddy/PWA/service-worker.js",
+    "index.html": "/bpaddy/PWA/index.html",
+    "main.073c9b0a.css.map": "/bpaddy/PWA/static/css/main.073c9b0a.css.map",
+    "main.af9fa81e.js.map": "/bpaddy/PWA/static/js/main.af9fa81e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bpaddy/PWA/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af9fa81e.js"
+  ]
+}
